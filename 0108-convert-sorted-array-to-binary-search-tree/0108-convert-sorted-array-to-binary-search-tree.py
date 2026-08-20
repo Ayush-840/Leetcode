@@ -10,12 +10,14 @@ class Solution(object):
         :type nums: List[int]
         :rtype: Optional[TreeNode]
         """
-        if not nums:
-            return None
-        mid=len(nums)//2
-        root=TreeNode(nums[mid])
-        root.left=self.sortedArrayToBST(nums[:mid])
-        root.right=self.sortedArrayToBST(nums[mid+1:])
+        def ans(l,r):
+            if l>r:
+                return None
+            mid=(l+r)//2
+            root = TreeNode(nums[mid])
+            root.left=ans(l,mid-1)
+            root.right =ans(mid+1,r)
 
-        return root
+            return root
+        return ans(0,len(nums)-1)
         
