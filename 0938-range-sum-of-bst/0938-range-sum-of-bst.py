@@ -12,19 +12,10 @@ class Solution(object):
         :type high: int
         :rtype: int
         """
-        ans=[]
-        def ans1(root):
-            if root==None:
-                return 
-            ans1(root.left)
-            ans.append(root.val)
-            ans1(root.right)
-        ans1(root)
-        sum1=0
-        for i in ans:
-            if low <= i <= high:
-                sum1+=i
-        return sum1
-    
-            
-        
+        if root==None:
+            return 0
+        if root.val < low:
+            return self.rangeSumBST(root.right,low,high)
+        if root.val>high:
+            return self.rangeSumBST(root.left,low,high)
+        return root.val+self.rangeSumBST(root.left,low,high) + self.rangeSumBST(root.right,low,high)
