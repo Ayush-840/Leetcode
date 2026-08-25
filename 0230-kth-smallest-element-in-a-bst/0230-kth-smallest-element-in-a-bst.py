@@ -20,5 +20,5 @@ class Solution(object):
             arr.append(node.val)
             inorder(node.right)
         inorder(root)
-        return arr[k - 1]
+        return arr[k-1]
         
