@@ -29,6 +29,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/Ayush-840/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ayush-840/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ayush-840/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Ayush-840/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Ayush-840/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
@@ -40,6 +41,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/Ayush-840/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ayush-840/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ayush-840/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Ayush-840/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Ayush-840/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
@@ -55,6 +57,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/Ayush-840/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ayush-840/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ayush-840/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Ayush-840/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Ayush-840/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
@@ -66,6 +69,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Ayush-840/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ayush-840/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ayush-840/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Ayush-840/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Ayush-840/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Stack
 |  |
@@ -93,4 +97,5 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ayush-840/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Ayush-840/Leetcode/tree/master/0112-path-sum) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Ayush-840/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
