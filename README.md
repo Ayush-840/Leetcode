@@ -79,6 +79,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Ayush-840/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ayush-840/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayush-840/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Divide and Conquer
@@ -112,4 +113,12 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayush-840/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Ayush-840/Leetcode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Ayush-840/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
