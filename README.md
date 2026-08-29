@@ -11,6 +11,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ayush-840/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Ayush-840/Leetcode/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/Ayush-840/Leetcode/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -121,4 +122,12 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ayush-840/Leetcode/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Ayush-840/Leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Ayush-840/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
