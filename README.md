@@ -119,6 +119,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ayush-840/Leetcode/tree/master/0014-longest-common-prefix) |
+| [1079-letter-tile-possibilities](https://github.com/Ayush-840/Leetcode/tree/master/1079-letter-tile-possibilities) |
 ## Trie
 |  |
 | ------- |
@@ -131,4 +132,16 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ayush-840/Leetcode/tree/master/0070-climbing-stairs) |
+## Hash Table
+|  |
+| ------- |
+| [1079-letter-tile-possibilities](https://github.com/Ayush-840/Leetcode/tree/master/1079-letter-tile-possibilities) |
+## Backtracking
+|  |
+| ------- |
+| [1079-letter-tile-possibilities](https://github.com/Ayush-840/Leetcode/tree/master/1079-letter-tile-possibilities) |
+## Counting
+|  |
+| ------- |
+| [1079-letter-tile-possibilities](https://github.com/Ayush-840/Leetcode/tree/master/1079-letter-tile-possibilities) |
 <!---LeetCode Topics End-->
