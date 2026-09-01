@@ -119,6 +119,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ayush-840/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/Ayush-840/Leetcode/tree/master/0022-generate-parentheses) |
 | [1079-letter-tile-possibilities](https://github.com/Ayush-840/Leetcode/tree/master/1079-letter-tile-possibilities) |
 ## Trie
 |  |
@@ -127,6 +128,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ayush-840/Leetcode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Ayush-840/Leetcode/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -139,9 +141,14 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ayush-840/Leetcode/tree/master/0022-generate-parentheses) |
 | [1079-letter-tile-possibilities](https://github.com/Ayush-840/Leetcode/tree/master/1079-letter-tile-possibilities) |
 ## Counting
 |  |
 | ------- |
 | [1079-letter-tile-possibilities](https://github.com/Ayush-840/Leetcode/tree/master/1079-letter-tile-possibilities) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Ayush-840/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
