@@ -148,6 +148,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ayush-840/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Ayush-840/Leetcode/tree/master/0039-combination-sum) |
+| [0077-combinations](https://github.com/Ayush-840/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Ayush-840/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ayush-840/Leetcode/tree/master/0090-subsets-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/Ayush-840/Leetcode/tree/master/0491-non-decreasing-subsequences) |
