@@ -7,21 +7,16 @@ class Solution(object):
         """
         ans=[]
         path=[]
-        def back(i,target):
+        def back(i,target,nums):
             if target==0:
                 ans.append(path[:])
                 return
-            if i==len(candidates):
+            if i==len(nums):
                 return
-            #take
-            if candidates[i]<=target:
-                path.append(candidates[i])
-                back(i,target-candidates[i])
+            if nums[i]<= target:
+                path.append(nums[i])
+                back(i,target-nums[i],nums)
                 path.pop()
-            #not take
-            back(i+1,target)
-        back(0,target)
+            back(i+1,target,nums)
+        back(0,target,candidates)
         return ans
-
-
-        
