@@ -86,6 +86,7 @@
 | [0090-subsets-ii](https://github.com/Ayush-840/Leetcode/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ayush-840/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayush-840/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0491-non-decreasing-subsequences](https://github.com/Ayush-840/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -139,6 +140,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0491-non-decreasing-subsequences](https://github.com/Ayush-840/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [1079-letter-tile-possibilities](https://github.com/Ayush-840/Leetcode/tree/master/1079-letter-tile-possibilities) |
 ## Backtracking
 |  |
@@ -146,6 +148,7 @@
 | [0022-generate-parentheses](https://github.com/Ayush-840/Leetcode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Ayush-840/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ayush-840/Leetcode/tree/master/0090-subsets-ii) |
+| [0491-non-decreasing-subsequences](https://github.com/Ayush-840/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [1079-letter-tile-possibilities](https://github.com/Ayush-840/Leetcode/tree/master/1079-letter-tile-possibilities) |
 ## Counting
 |  |
@@ -160,4 +163,5 @@
 | ------- |
 | [0078-subsets](https://github.com/Ayush-840/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ayush-840/Leetcode/tree/master/0090-subsets-ii) |
+| [0491-non-decreasing-subsequences](https://github.com/Ayush-840/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 <!---LeetCode Topics End-->
