@@ -6,14 +6,13 @@ class Solution(object):
         """
         res=[]
         def ans(open,close,s):
-            if open==n and close==n:
+            if close==n and open==n:
                 res.append(s)
                 return
-            if open < n:
+            if open<n:
                 ans(open+1,close,s+"(")
             if close < open:
                 ans(open,close+1,s+")")
         ans(0,0,"")
         return res
-        
         
