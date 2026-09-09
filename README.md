@@ -92,6 +92,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayush-840/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Ayush-840/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0491-non-decreasing-subsequences](https://github.com/Ayush-840/Leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [0526-beautiful-arrangement](https://github.com/Ayush-840/Leetcode/tree/master/0526-beautiful-arrangement) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -141,6 +142,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ayush-840/Leetcode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Ayush-840/Leetcode/tree/master/0070-climbing-stairs) |
+| [0526-beautiful-arrangement](https://github.com/Ayush-840/Leetcode/tree/master/0526-beautiful-arrangement) |
 ## Memoization
 |  |
 | ------- |
@@ -166,6 +168,7 @@
 | [0093-restore-ip-addresses](https://github.com/Ayush-840/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0216-combination-sum-iii](https://github.com/Ayush-840/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0491-non-decreasing-subsequences](https://github.com/Ayush-840/Leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [0526-beautiful-arrangement](https://github.com/Ayush-840/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [1079-letter-tile-possibilities](https://github.com/Ayush-840/Leetcode/tree/master/1079-letter-tile-possibilities) |
 ## Counting
 |  |
@@ -181,4 +184,9 @@
 | [0078-subsets](https://github.com/Ayush-840/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ayush-840/Leetcode/tree/master/0090-subsets-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/Ayush-840/Leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [0526-beautiful-arrangement](https://github.com/Ayush-840/Leetcode/tree/master/0526-beautiful-arrangement) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/Ayush-840/Leetcode/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
