@@ -85,6 +85,7 @@
 | [0039-combination-sum](https://github.com/Ayush-840/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Ayush-840/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Ayush-840/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Ayush-840/Leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Ayush-840/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ayush-840/Leetcode/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ayush-840/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -113,6 +114,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Ayush-840/Leetcode/tree/master/0047-permutations-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayush-840/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -153,6 +155,7 @@
 | [0039-combination-sum](https://github.com/Ayush-840/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Ayush-840/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Ayush-840/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Ayush-840/Leetcode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Ayush-840/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Ayush-840/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ayush-840/Leetcode/tree/master/0090-subsets-ii) |
