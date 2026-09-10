@@ -189,4 +189,8 @@
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/Ayush-840/Leetcode/tree/master/0526-beautiful-arrangement) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Ayush-840/Leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
