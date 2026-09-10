@@ -4,7 +4,7 @@ class Solution(object):
         if total % k != 0:
             return False
         target = total // k
-        nums.sort(reverse=True)
+        nums.sort()
         used = [False] * len(nums)
         def back(start, current_sum, groups):
             if groups == 1:
