@@ -93,6 +93,7 @@
 | [0216-combination-sum-iii](https://github.com/Ayush-840/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0491-non-decreasing-subsequences](https://github.com/Ayush-840/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/Ayush-840/Leetcode/tree/master/0526-beautiful-arrangement) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Ayush-840/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -143,10 +144,12 @@
 | [0022-generate-parentheses](https://github.com/Ayush-840/Leetcode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Ayush-840/Leetcode/tree/master/0070-climbing-stairs) |
 | [0526-beautiful-arrangement](https://github.com/Ayush-840/Leetcode/tree/master/0526-beautiful-arrangement) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Ayush-840/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ayush-840/Leetcode/tree/master/0070-climbing-stairs) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Ayush-840/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Hash Table
 |  |
 | ------- |
@@ -169,6 +172,7 @@
 | [0216-combination-sum-iii](https://github.com/Ayush-840/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0491-non-decreasing-subsequences](https://github.com/Ayush-840/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/Ayush-840/Leetcode/tree/master/0526-beautiful-arrangement) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Ayush-840/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1079-letter-tile-possibilities](https://github.com/Ayush-840/Leetcode/tree/master/1079-letter-tile-possibilities) |
 ## Counting
 |  |
@@ -185,10 +189,12 @@
 | [0090-subsets-ii](https://github.com/Ayush-840/Leetcode/tree/master/0090-subsets-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/Ayush-840/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/Ayush-840/Leetcode/tree/master/0526-beautiful-arrangement) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Ayush-840/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Bitmask
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/Ayush-840/Leetcode/tree/master/0526-beautiful-arrangement) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Ayush-840/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Database
 |  |
 | ------- |
