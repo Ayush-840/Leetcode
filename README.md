@@ -134,6 +134,7 @@
 | [0022-generate-parentheses](https://github.com/Ayush-840/Leetcode/tree/master/0022-generate-parentheses) |
 | [0093-restore-ip-addresses](https://github.com/Ayush-840/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Ayush-840/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/Ayush-840/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0842-split-array-into-fibonacci-sequence](https://github.com/Ayush-840/Leetcode/tree/master/0842-split-array-into-fibonacci-sequence) |
 | [1079-letter-tile-possibilities](https://github.com/Ayush-840/Leetcode/tree/master/1079-letter-tile-possibilities) |
 ## Trie
@@ -146,6 +147,7 @@
 | [0022-generate-parentheses](https://github.com/Ayush-840/Leetcode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Ayush-840/Leetcode/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Ayush-840/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/Ayush-840/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0526-beautiful-arrangement](https://github.com/Ayush-840/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Ayush-840/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Memoization
