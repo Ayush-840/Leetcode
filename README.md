@@ -34,6 +34,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ayush-840/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ayush-840/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Ayush-840/Leetcode/tree/master/0938-range-sum-of-bst) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Ayush-840/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ayush-840/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ayush-840/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Ayush-840/Leetcode/tree/master/0938-range-sum-of-bst) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Ayush-840/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -63,6 +65,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ayush-840/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ayush-840/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Ayush-840/Leetcode/tree/master/0938-range-sum-of-bst) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Ayush-840/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -76,6 +79,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ayush-840/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ayush-840/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Ayush-840/Leetcode/tree/master/0938-range-sum-of-bst) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Ayush-840/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Stack
 |  |
 | ------- |
@@ -122,6 +126,7 @@
 | ------- |
 | [0047-permutations-ii](https://github.com/Ayush-840/Leetcode/tree/master/0047-permutations-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayush-840/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Ayush-840/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
