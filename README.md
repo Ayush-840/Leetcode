@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ayush-840/Leetcode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Ayush-840/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Ayush-840/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Math
 |  |
@@ -17,6 +18,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ayush-840/Leetcode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Ayush-840/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 ## Tree
 |  |
 | ------- |
