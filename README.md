@@ -88,6 +88,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ayush-840/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ayush-840/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [1021-remove-outermost-parentheses](https://github.com/Ayush-840/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ayush-840/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Array
 |  |
@@ -156,6 +157,7 @@
 | [0131-palindrome-partitioning](https://github.com/Ayush-840/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Ayush-840/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0842-split-array-into-fibonacci-sequence](https://github.com/Ayush-840/Leetcode/tree/master/0842-split-array-into-fibonacci-sequence) |
+| [1021-remove-outermost-parentheses](https://github.com/Ayush-840/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1079-letter-tile-possibilities](https://github.com/Ayush-840/Leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ayush-840/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Trie
@@ -212,6 +214,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ayush-840/Leetcode/tree/master/0022-generate-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Ayush-840/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ayush-840/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bit Manipulation
 |  |
