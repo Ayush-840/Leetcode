@@ -15,14 +15,16 @@ class Solution(object):
             return None
         if root.val > key:
             root.left=self.deleteNode(root.left,key)
-        if root.val < key:
+        elif root.val < key:
             root.right = self.deleteNode(root.right,key)
     
-        if root.val==key:
+        else:
+            root.val==key
             if root.left is None:
                 return root.right
             if root.right is None:
                 return root.left
+            
             temp = root.right
             while temp.left:
                 temp=temp.left
