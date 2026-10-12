@@ -11,22 +11,21 @@ class Solution(object):
         :type key: int
         :rtype: Optional[TreeNode]
         """
-        if root==None:
+        if root is None:
             return None
-        if key < root.val:
+        if root.val > key:
             root.left=self.deleteNode(root.left,key)
-        elif key > root.val:
+        if root.val < key:
             root.right = self.deleteNode(root.right,key)
-        else:
-            if root.left==None:
+    
+        if root.val==key:
+            if root.left is None:
                 return root.right
-            if root.right==None:
+            if root.right is None:
                 return root.left
-            
-            temp=root.right
+            temp = root.right
             while temp.left:
                 temp=temp.left
             root.val = temp.val
-            root.right = self.deleteNode(root.right, temp.val)
+            root.right=self.deleteNode(root.right,temp.val)
         return root
-        
