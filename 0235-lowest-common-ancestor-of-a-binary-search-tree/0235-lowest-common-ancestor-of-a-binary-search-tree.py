@@ -7,12 +7,25 @@
 
 class Solution(object):
     def lowestCommonAncestor(self, root, p, q):
-        if root.val > q.val and root.val > p.val:
-            return self.lowestCommonAncestor(root.left,p,q)
-        if root.val < q.val and root.val < p.val:
-            return self.lowestCommonAncestor(root.right,p,q)
-        return root
-
-
-
+        """
+        :type root: TreeNode
+        :type p: TreeNode
+        :type q: TreeNode
+        :rtype: TreeNode
+        """
+        def solve(node,p,q):
+            if node is None:
+                return None
+            if node==p or node==q:
+                return node
+            left = solve(node.left,p,q)
+            right = solve(node.right,p,q)
+            if left is None and right is None:
+                return None
+            elif left is None:
+                return right
+            elif right is None:
+                return left
+            return node
+        return solve(root,p,q)
         
