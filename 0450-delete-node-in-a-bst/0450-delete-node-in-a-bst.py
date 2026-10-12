@@ -25,9 +25,9 @@ class Solution(object):
             if root.right is None:
                 return root.left
             
-            temp = root.right
-            while temp.left:
-                temp=temp.left
+            temp = root.left
+            while temp.right:
+                temp=temp.right
             root.val = temp.val
-            root.right=self.deleteNode(root.right,temp.val)
+            root.left=self.deleteNode(root.left,temp.val)
         return root
